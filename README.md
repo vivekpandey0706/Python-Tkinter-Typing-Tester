@@ -16,3 +16,8 @@ A Python desktop application built with Tkinter that measures typing speed and a
 1) Python
 2) Tkinter (GUI Framework)
 3) Matplotlib (performance visualization)
+
+## How to Use:
+1. Clone the repository and ensure that all files are in the same folder.
+2. Run the python script named 'script.py'.
+3. Select mode and time limit and start typing in order for the timer to begin.
